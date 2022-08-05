@@ -1,0 +1,20 @@
+[
+  {
+    "title": "JavaScript",
+    "author": "amaru",
+    "genere": "programacion",
+    "year": 2000,
+    "cost": 200,
+    "price": 200,
+    "id": 1
+  },
+  {
+    "title": "PHP8",
+    "author": "juan",
+    "genere": "back end",
+    "year": 2001,
+    "cost": 500,
+    "price": 600,
+    "id": 2
+  }
+]
