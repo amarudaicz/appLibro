@@ -1,20 +1,74 @@
 [
   {
-    "title": "JavaScript",
-    "author": "amaru",
-    "genere": "programacion",
-    "year": 2000,
-    "cost": 200,
-    "price": 200,
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
     "id": 1
   },
   {
-    "title": "PHP8",
-    "author": "juan",
-    "genere": "back end",
-    "year": 2001,
-    "cost": 500,
-    "price": 600,
-    "id": 2
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
+    "id": 4912
+  },
+  {
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
+    "id": 8337
+  },
+  {
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
+    "id": 59550
+  },
+  {
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
+    "id": 23915
+  },
+  {
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
+    "id": 38993
+  },
+  {
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
+    "id": 55942
+  },
+  {
+    "title": "as",
+    "author": "as",
+    "genere": "as",
+    "year": 2,
+    "cost": 2,
+    "price": 455,
+    "id": 54739
   }
 ]
