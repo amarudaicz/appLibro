@@ -12,7 +12,7 @@ function deletear(id) {
     }
   }
   listadoPar.forEach(encontrar);
-  console.log(listadoPar);
+  console.log(listadoPar); // Es preferible que acá hagas return y luego hagas console.log() del valor de esta función en app.js, si te animás mejorá eso.
 }
 
 exports.deletear = deletear;

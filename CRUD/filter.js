@@ -9,7 +9,7 @@ function filter(p, s) {
     }
     let respuesta = listadoPar.filter(filtrar)
 
-    if (respuesta == false) {
+    if (respuesta == false) { // Está mal esta condición. ".filter" es un método (función), por lo que devuelve un valor. Si no encuentra lo que busca devuelve un array vacío.
         console.log('No se encontraron libros');
         return
     }

@@ -4,6 +4,9 @@ const add = require('./CRUD/new');
 const deletear = require('./CRUD/delete');
 const filter = require('./CRUD/filter');
 
+// Acá cada método es un objeto único, lo cual está mal porque es un mal uso del objeto. 
+// para no hacer "add.add", podés hacer: "metodos.add", y te quedaria para los demás: "metodo.read", "metodo.edit", etc..
+
 switch (process.argv[2]) {
   case 'new':
     add.add(
